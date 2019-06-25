@@ -67,7 +67,6 @@ bool payload_sent = false;
 
 void loop() {
   mqtt_client.loop();
-
   long now = millis();
   //Wiederhole Kommunikationsversuch zum Broker alle zwei Sekunden
   if (now - last_msg > 2000 && !payload_sent) {
