@@ -53,7 +53,7 @@ void setup() {
   connect_to_broker();
   //Bestätige den Verbindungsaufbau zum Broker
   print_broker_info();
-  mqtt_client.publish(payload_topic, bat_buff);
+  //mqtt_client.publish(payload_topic, bat_buff);
 }
 
 //Anzahl der Versuche den Payload zu versenden
