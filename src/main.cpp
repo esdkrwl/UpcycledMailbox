@@ -43,8 +43,6 @@ void setup() {
   v_bat = get_bat_voltage();
   String v_bat_str = String(v_bat);
   v_bat_str.toCharArray(bat_buff, 5);
-
-
   //Verbinde mit dem WiFi
   connect_to_wifi();
   //Gebe Informationen zum Netzwerk und Empfangsqualität zurück
