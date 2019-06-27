@@ -12,8 +12,8 @@
 //Leerlaufzeit in Sekunden
 #define IDLE_TIME 10
 
-const char* ssid = "ESP8266";
-const char* password = "FFEEDDCCBB";
+const char* ssid = "NETZWERKNAME";
+const char* password = "WPA2-KEY";
 const char* mqtt_server = "mqtt.iot.informatik.uni-oldenburg.de";
 const char* payload_topic = "aamn/Briefkasten/1";
 char bat_buff[5];
