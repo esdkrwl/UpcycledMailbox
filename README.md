@@ -1,7 +1,7 @@
 # UpcycledMailbox
-In diesem Repository befinden sich alle Dateien, die während der Entwicklung entstanden sind. Die Dokumentation befindet sich im Wiki.
+In diesem Repository befinden sich alle Dateien, die während der Entwicklung entstanden sind. Die Dokumentation befindet sich im [Wiki](https://github.com/esdkrwl/UpcycledMailbox/wiki).
 
-Im Ordner "Abbildungen" befinden sich alle Abbildungen, die im [Wiki](https://github.com/esdkrwl/UpcycledMailbox/wiki) verwendet wurden.
+Im Ordner [Abbildungen](https://github.com/esdkrwl/UpcycledMailbox/tree/master/Abbildungen) befinden sich alle Abbildungen, die im  verwendet wurden.
 
 Im Ordner [Software](https://github.com/esdkrwl/UpcycledMailbox/tree/master/Software) befinden sich die Unterordner [Node-RED](https://github.com/esdkrwl/UpcycledMailbox/tree/master/Software/Node-RED), in welchem der Node-RED Flow abgelegt wurde, und [Firmware](https://github.com/esdkrwl/UpcycledMailbox/tree/master/Software/Firmware). Dort befindet sich die Software, welche auf den Mikrocontroller geflasht wurde.
 
